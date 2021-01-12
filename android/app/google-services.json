@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "679752228883",
+    "project_id": "theburgertownauth",
+    "storage_bucket": "theburgertownauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679752228883:android:9f2ff275c9ede6232c5fe6",
+        "android_client_info": {
+          "package_name": "com.example.theBT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679752228883-pkt1hotnhkmpjj77hlkehsvgn3at3d9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theBT",
+            "certificate_hash": "446e94b2382d7b2203f15d34b2261c3c9b415939"
+          }
+        },
+        {
+          "client_id": "679752228883-9jl6n71f3go6glb2ailf1fr7k83rc9lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_dVeZhjcnPeb5H-QEeqEACbzOHDk1Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679752228883-9jl6n71f3go6glb2ailf1fr7k83rc9lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

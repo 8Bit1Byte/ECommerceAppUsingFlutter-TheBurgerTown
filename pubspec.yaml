@@ -1,0 +1,91 @@
+name: theBT
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  location: ^3.2.1
+  flutter_map: ^0.10.1+1
+  permission_handler: ^4.4.0+hotfix.2
+  flutter_staggered_grid_view: ^0.3.3
+  flutter_svg: ^0.18.1
+  google_fonts: ^1.1.0
+  flutter_vector_icons: ^0.2.1
+  extended_navbar_scaffold: ^1.0.1
+  firebase:
+  flutter_masked_text: ^0.8.0
+  firebase_storage:
+  font_awesome_flutter: 
+  image_picker:
+  firebase_database: 
+  geolocator: ^6.1.13
+  google_maps_flutter: ^1.0.6
+  shared_preferences: ^0.5.12+4
+  after_layout: ^1.0.7+2
+  url_launcher: ^5.7.10
+  device_apps: ^1.2.0
+  android_intent: ^0.3.7+7
+  form_field_validator: ^1.0.1
+  firebase_core: ^0.4.5
+  firebase_auth: ^0.16.0
+  google_sign_in: ^4.4.4
+  cloud_firestore: ^0.13.7
+  flutter_rating_bar: ^3.2.0+1
+    
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  bloc_pattern:
+  rxdart: 
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/home/
+    - assets/aboutUs/
+    - assets/offers/
+    - assets/aboutUs/Avatar/avatar1.png  
+    - assets/images/
+    - assets/images/loading.gif
+    - assets/images/onBoarding/1.png
+    - assets/images/onBoarding/2.png
+    - assets/images/onBoarding/3.png
+    - assets/1.png
+    - assets/moto.png
+    - assets/map.png
+    - assets/thebt.png
+    - assets/thebt1.png
+    - assets/images/delivery-boy.png
+    - assets/splash/main.png
+    - assets/icons/main.svg
+    - assets/icons/dropdown.svg
+    - assets/icons/maps-and-flags.svg
+    - assets/icons/main_top.svg
+
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Medium.ttf
+          style: normal
+        - asset: assets/fonts/Quicksand_Bold.otf
+          weight: 700
+
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway-Regular.ttf
+          style: normal
+        - asset: assets/fonts/Raleway-Medium.ttf
